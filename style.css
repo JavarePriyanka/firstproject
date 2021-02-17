@@ -20,9 +20,9 @@ div[class*=box] {
   align-items: center;
 }
 
-.box-1 { background-color: #607d8b; }
-.box-2 { background-color: #aa1fc2; }
-.box-3 { background-color: #66A182; }
+.box-1 { background-color: #169b8f; }
+.box-2 { background-color: #b4a5a5; }
+.box-3 { background-color: #f44336; }
 
 .btn {
     line-height: 50px;
